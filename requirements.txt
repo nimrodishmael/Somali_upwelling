@@ -1,0 +1,8 @@
+panel
+hvplot
+xarray
+netcdf4
+numpy
+cartopy
+shapely
+pyproj
